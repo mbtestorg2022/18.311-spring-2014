@@ -48,10 +48,39 @@ Grading
 
 The TA will grade a few problems in each set, selected randomly; answers will be provided for all. Please, do all the problems; this is the only way to really learn the course material \[besides: If you just happen to miss the ones picked, you will get no credit, even if you did all the others\]. The reason for this policy is that I would rather have the TA grade well a few problems than attempt to grade all with "in-a-hurry" sort of grading. There will be stiff penalties for late homework.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Regular Problem Set Parts | 30% |
-| Special Problem Set Parts | 70% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Regular Problem Set Parts
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Special Problem Set Parts
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Collaboration
 -------------
