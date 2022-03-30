@@ -4,6 +4,7 @@ description: This file contains the information regarding principles of applied 
   set 6.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-311-principles-of-applied-mathematics-spring-2014/3e3a55f349dd967876a1750e09b03602_MIT18_311S14_ProblemSet6.pdf
 file_type: application/pdf
+parent_uid: 3c56a580-4110-bab1-8eee-9f3fa91becab
 resourcetype: Document
 title: Principles of Applied Mathematics, Problem Set 6
 uid: 3e3a55f3-49dd-9678-76a1-750e09b03602
